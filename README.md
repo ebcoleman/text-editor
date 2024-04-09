@@ -4,6 +4,9 @@
 
 ## Usage
 
+GitHub repo link:
+https://github.com/ebcoleman/text-editor
+
 
 ## Credits
 
